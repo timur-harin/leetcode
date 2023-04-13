@@ -1,4 +1,4 @@
-# LeetCode problems solved in Dart
+# etCode problems solved in Dart
 
 Solutions from [LeetCode](https://leetcode.com/) on Dart.
 
@@ -19,5 +19,5 @@ Solutions from [LeetCode](https://leetcode.com/) on Dart.
 
 | Name                                        | LeetCode                                                          | Solution                                         |
 |---------------------------------------------|-------------------------------------------------------------------|--------------------------------------------------|
-| 1. Two Sum                                  | [Link](https://leetcode.com/problems/two-sum/n)                   | [Link](./easy/two_sum.dart)                          |
+| 1. Two Sum                                  | [Link](https://leetcode.com/problems/two-sum/)                   | [Link](./easy/two_sum.dart)                          |
 
