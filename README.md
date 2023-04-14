@@ -19,5 +19,6 @@ Solutions from [LeetCode](https://leetcode.com/) on Dart.
 
 | Name                                        | LeetCode                                                          | Solution                                         |
 |---------------------------------------------|-------------------------------------------------------------------|--------------------------------------------------|
-| 1. Two Sum                                  | [Link](https://leetcode.com/problems/two-sum/)                   | [Link](./easy/two_sum.dart)                          |
+| 1. Two Sum                                  | [Link](https://leetcode.com/problems/two-sum/)                    | [Link](./easy/two_sum.dart)                      |
+| 9. Palindrom Number                         | [Link](https://leetcode.com/problems/palindrome-number/)          | [Link](./easy/palindrom_number.dart)             |
 
