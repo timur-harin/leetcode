@@ -1,8 +1,8 @@
 class Solution {
-  int pow(int base, int power){
-    var result=base;
-    for (var i = 0; i<power-1;i++){
-      result*=base;
+  int pow(int base, int power) {
+    var result = base;
+    for (var i = 0; i < power - 1; i++) {
+      result *= base;
     }
     return result;
   }
@@ -21,5 +21,4 @@ class Solution {
     }
     return pal;
   }
-
 }
