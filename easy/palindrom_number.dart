@@ -1,4 +1,12 @@
 class Solution {
+  int pow(int base, int power){
+    var result=base;
+    for (var i = 0; i<power-1;i++){
+      result*=base;
+    }
+    return result;
+  }
+
   bool isPalindrome(int x) {
     int length = x.toString().length;
     var pal = true;
@@ -13,4 +21,5 @@ class Solution {
     }
     return pal;
   }
+
 }
