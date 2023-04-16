@@ -1,4 +1,4 @@
-# etCode problems solved in Dart
+# LeetCode problems solved in Dart
 
 Solutions from [LeetCode](https://leetcode.com/) on Dart.
 
